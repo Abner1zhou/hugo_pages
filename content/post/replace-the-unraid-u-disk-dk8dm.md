@@ -3,7 +3,7 @@ title: 更换Unraid U盘
 slug: replace-the-unraid-u-disk-dk8dm
 url: /post/replace-the-unraid-u-disk-dk8dm.html
 date: '2023-11-03 15:08:58'
-lastmod: '2023-11-03 17:30:40'
+lastmod: '2023-11-03 17:33:01'
 toc: true
 tags:
   - Resources/Nas
