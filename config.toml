@@ -1,4 +1,4 @@
-theme = 'ananke'
+theme = 'PaperMod'
 baseURL = 'https://abner1zhou.github.io/hugo_pages/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
